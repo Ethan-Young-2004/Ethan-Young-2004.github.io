@@ -89,7 +89,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    # { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "nahrice", href: "https://go.fufu.icu/" },
     # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     # { title: "Kun Qian", href: "http://kunq.me" },
     # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
